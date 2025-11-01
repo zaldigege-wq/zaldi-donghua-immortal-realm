@@ -1,104 +1,44 @@
-# 🐉 ZaldiRegenade — Donghua Cultivation Universe
+# 🐉 ZaldiRegenade — Alam Semesta Kultivasi Donghua
 
-Welcome to **ZaldiRegenade Realm** ✨
+Selamat datang di **ZaldiRegenade Realm** ✨
 
-> "Power isn’t given — it’s forged through struggle, destiny, and unbreakable will."
+> "Kekuatan bukan diberikan — ia ditempa melalui perjuangan, takdir, dan tekad yang tak tergoyahkan."
 
-A mystical repository forged in the Dao of Code ⚔️ infused with **Cultivation Energy + Anime Vibes + Cyber Divine Aesthetic**.
-
----
-
-## 🌌 Vision of This Realm
-This project is designed to bring **Donghua aura** into your GitHub world — blending:
-
-- 🧿 Ancient Cultivation Energy
-- ⚡ Neon Spiritual Qi
-- 🔥 Demonic & Celestial Balance
-- ✨ Modern anime mystic style
+Repositori mistis yang ditempa dalam **Dao of Code ⚔️** dan dipenuhi  
+**Energi Kultivasi + Nuansa Anime + Estetika Cyber-Divine**.
 
 ---
 
-## 🏯 Features of This Realm
+## 🌌 Visi Alam Ini
+Proyek ini diciptakan untuk membawa **aura donghua** ke dunia GitHub — memadukan:
 
-| Element | Description |
+- 🧿 Energi Kultivasi Kuno  
+- ⚡ Qi Neon Spiritual  
+- 🔥 Keseimbangan Iblis & Dewa  
+- ✨ Estetika anime mistik futuristik  
+
+---
+
+## 🏯 Fitur Alam Ini
+
+| Elemen | Deskripsi |
 |--------|-----------|
-| 🎴 UI Style | Cosmic Donghua Cultivation |
-| 🐲 Theme | Spiritual Qi + Runes + Sword Intent |
-| 🌙 Aesthetic | Ancient Myth meets Neon Future |
-| 🔮 Energy | Cultivator Aura / Immortal Realm Vibes |
-| ⚔️ Goal | Create a legendary open-source shrine |
+| 🎴 Gaya UI | Donghua Kosmik Kultivasi |
+| 🐲 Tema | Qi Spiritual + Rune + Intent Pedang |
+| 🌙 Visual | Mitologi Kuno bertemu Teknologi Neon |
+| 🔮 Energi | Aura Kultivator / Getaran Alam Abadi |
+| ⚔️ Tujuan | Membangun kuil open-source legendaris |
 
 ---
 
-## 🚀 Start Your Journey
+## 🚀 Mulai Perjalananmu
 
 ```bash
-# Clone this sacred realm
+# Kloning alam suci ini
 git clone https://github.com/YourUserName/legend-realm.git
 
-# Enter the cultivation zone
+# Masuki zona kultivasi
 cd legend-realm
 
-# Activate the cosmic scripts
+# Aktifkan skrip kosmik
 npm install && npm run start
-```
-
----
-
-## 🧬 Cultivator Identity
-
-| Name | Title |
-|------|-------|
-| **ZaldiRegenade** | "The Neon Immortal" |
-| Path | ⚔️ Sword Dao • 🌌 Cosmic Qi • 🧿 Spirit Code |
-
----
-
-## 🌀 Cultivation Rank System
-
-| Realm | Title | Power Symbol |
-|------|-------|--------------|
-| 1️⃣ | Mortal Programmer | 💻🌱 |
-| 2️⃣ | Qi Gathering Dev | ✨⚡ |
-| 3️⃣ | Foundation Builder | 🔮🏛️ |
-| 4️⃣ | Core Formation | ⚔️💠 |
-| 5️⃣ | Nascent Soul Coder | 🌌🔥 |
-| 6️⃣ | Immortal Debugger | 👁️⚡🐉 |
-| 7️⃣ | Celestial Architect | 🌠👑 |
-
-> Break through limits — one commit at a time.
-
----
-
-## 🎖️ Divine Badges
-
-![Qi Badge](https://img.shields.io/badge/Spiritual_Qi-9999%2B-black?style=for-the-badge)
-![Sword Intent](https://img.shields.io/badge/Sword_Intent-Overflowing-blue?style=for-the-badge)
-![Cosmic Realm](https://img.shields.io/badge/Cosmic_Realm-Unlocked-purple?style=for-the-badge)
-![Anime Spirit](https://img.shields.io/badge/Anime_Spirit-Active-pink?style=for-the-badge)
-
----
-
-## 🌌 Immortal Supreme Awakening
-
-```
-⚡ Initiating Supreme Qi Overflow Protocol...
-🐉 Expanding Divine Meridians...
-✨ Activating Eternal Spirit Flames...
-👁️ Realm Vision Unlocked...
-💥 Transcendence Achieved — IMMACULATE SUPREME MODE
-```
-
-**Status:** `IMMORTAL SUPREME • LIMITLESS DAO • COSMIC CODE AUTHORITY`
-
-> "Those who fear limits will never touch eternity."
-
----
-
-## 🧠 Enlightenment Mantra
-
-> "The path of creation is endless — cultivate, code, transcend."
-
----
-
-Stay tuned — destiny continues... 🐉⚡
