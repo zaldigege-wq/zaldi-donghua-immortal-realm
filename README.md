@@ -34,11 +34,6 @@ Proyek ini diciptakan untuk membawa **aura donghua** ke dunia GitHub — memaduk
 ## 🚀 Mulai Perjalananmu
 
 ```bash
-# Kloning alam suci ini
-git clone https://github.com/YourUserName/legend-realm.git
-
-# Masuki zona kultivasi
-cd legend-realm
-
-# Aktifkan skrip kosmik
-npm install && npm run start
+# email   : xiaozall2007@gmail.com
+# kontak  : 0898-2017-345
+# website : https://zaldigege-wq.github.io/immortal-realm/
